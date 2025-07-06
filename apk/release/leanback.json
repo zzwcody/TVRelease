@@ -1,4 +1,5 @@
 {
+  "proxy": "https://git.yylx.win",
   "code": 405,
   "name": "4.0.5",
   "desc": "* [App]\n* 更新room套件\n* 更新quickjs套件\n* 修正部分简繁转换\n* 支持Android16\n* [Vod]\n* 调整片头片尾限制"
