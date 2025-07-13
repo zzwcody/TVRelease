@@ -1,5 +1,4 @@
 {
-	"proxy": "https://git.yylx.win",
 	"source": {
 		"name": "default",
 		"url": "https://tvbox.catvod.com/catvod.json"
