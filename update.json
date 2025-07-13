@@ -1,6 +1,9 @@
 {
 	"proxy": "https://git.yylx.win",
-	"source": "https://tvbox.catvod.com/catvod.json",
+	"source": {
+		"name": "default",
+		"url": "https://tvbox.catvod.com/catvod.json"
+	},
 	"apk": {
 		"code": 405,
 		"name": "4.0.5",
