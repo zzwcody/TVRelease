@@ -1,11 +1,53 @@
 {
-	"source": {
-		"name": "default",
-		"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0707.json"
-	},
+	"source": [
+		{
+			"name": "default",
+			"url": ""
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+		  "name": "高天流云 No.1"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+		  "name": "高天流云 PG"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+		  "name": "高天流云 FTY"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+		  "name": "高天流云 FM"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+		  "name": "高天流云 JS"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+		  "name": "高天流云 XYQ"
+		},
+		{
+			"url": "https://tvbox.catvod.com/catvod.json",
+			"name": "自用省心"
+		},
+		{
+			"url": "https://tvbox.catvod.com/jsm.json",
+			"name": "PG"
+		},
+		{
+			"url": "https://tvbox.catvod.com/FongMi.json",
+			"name": "真心"
+		},
+		{
+			"url": "https://tvbox.catvod.com/xs/api.json",
+			"name": "潇洒"
+		}
+	],
 	"apk": {
-		"code": 405,
-		"name": "4.0.5",
-		"desc": "* [App]\n* 更新room套件\n* 更新quickjs套件\n* 修正部分简繁转换\n* 支持Android16\n* [Vod]\n* 调整片头片尾限制\n* test"
+		"code": 406,
+		"name": "4.0.6",
+		"desc": "* [App]\n* 更新支持多仓默认源"
 	}
 }
