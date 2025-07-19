@@ -4,46 +4,49 @@
 			"name": "default",
 			"url": ""
 		},
+		
 		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-		  "name": "高天流云 No.1"
-		},
-		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-		  "name": "高天流云 PG"
-		},
-		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-		  "name": "高天流云 FTY"
-		},
-		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-		  "name": "高天流云 FM"
-		},
-		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-		  "name": "高天流云 JS"
-		},
-		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-		  "name": "高天流云 XYQ"
-		},
-		{
-			"url": "https://tvbox.catvod.com/catvod.json",
-			"name": "自用省心"
-		},
-		{
-			"url": "https://tvbox.catvod.com/jsm.json",
-			"name": "PG"
+			"url": "https://tvbox.catvod.com/xs/api.json",
+			"name": "潇洒"
 		},
 		{
 			"url": "https://tvbox.catvod.com/FongMi.json",
 			"name": "真心"
 		},
 		{
-			"url": "https://tvbox.catvod.com/xs/api.json",
-			"name": "潇洒"
+			"url": "https://tvbox.catvod.com/jsm.json",
+			"name": "PG"
+		},
+		{
+			"url": "https://tvbox.catvod.com/catvod.json",
+			"name": "自用省心"
+		},
+		
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+		  "name": "高天流云 XYQ"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+		  "name": "高天流云 JS"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+		  "name": "高天流云 FM"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+		  "name": "高天流云 FTY"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+		  "name": "高天流云 PG"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+		  "name": "高天流云 No.1"
 		}
+		
 	],
 	"apk": {
 		"code": 406,
