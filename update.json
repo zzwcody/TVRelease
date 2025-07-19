@@ -1,7 +1,7 @@
 {
 	"source": {
 		"name": "default",
-		"url": "https://tvbox.catvod.com/catvod.json"
+		"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0707.json"
 	},
 	"apk": {
 		"code": 405,
