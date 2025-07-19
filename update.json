@@ -1,4 +1,6 @@
 {
+	"proxy": "https://gh.llkk.cc",
+	
 	"source": [
 		{
 			"name": "default",
