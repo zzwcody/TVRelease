@@ -1,12 +1,7 @@
 {
-	"proxy": "https://git.yylx.win",
+	"mirror": "https://git.yylx.win",
 	
 	"source": [
-		{
-			"name": "default",
-			"url": ""
-		},
-		
 		{
 			"url": "https://tvbox.catvod.com/xs/api.json",
 			"name": "潇洒"
@@ -47,12 +42,15 @@
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
 		  "name": "高天流云 No.1"
+		},
+		{
+			"name": "default",
+			"url": ""
 		}
-		
 	],
 	"apk": {
-		"code": 406,
-		"name": "4.0.6",
-		"desc": "* [App]\n* 更新支持多仓默认源"
+		"code": 407,
+		"name": "4.0.7",
+		"desc": "* [App]\n* fix bug"
 	}
 }
