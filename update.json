@@ -1,6 +1,4 @@
 {
-	"mirror": "https://ghproxy.net",
-	
 	"source": [
 		{
 			"url": "https://tvbox.catvod.com/xs/api.json",
@@ -42,15 +40,20 @@
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
 		  "name": "高天流云 No.1"
-		},
-		{
-			"name": "default",
-			"url": ""
 		}
 	],
 	"apk": {
-		"code": 408,
-		"name": "4.0.8",
-		"desc": "* [App]\n* fix bug"
+		"mobile": {
+			"url": "",
+			"code": 541,
+			"name": "5.4.1",
+			"desc": "* [App]\n* New Version"
+		},
+		"leanback": {
+			"url": "",
+			"code": 541,
+			"name": "5.4.1",
+			"desc": "* [App]\n* New Version"
+		}
 	}
 }
