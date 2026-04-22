@@ -45,8 +45,8 @@
 	"apk": {
 		"mobile": {
 			"url": "",
-			"code": 542,
-			"name": "5.4.2",
+			"code": 541,
+			"name": "5.4.1",
 			"desc": "* [App]\n* New Version"
 		},
 		"leanback": {
