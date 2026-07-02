@@ -1,8 +1,8 @@
 {
 	"source": [
 		{
-			"url": "https://raw.githubusercontent.com/SCXSVIP/TV/main/xszy.json",
-			"name": "潇洒"
+			"url": "https://tvbox.catvod.com/catvod.json",
+			"name": "自用省心"
 		},
 		{
 			"url": "https://tvbox.catvod.com/FongMi.json",
@@ -12,11 +12,6 @@
 			"url": "https://tvbox.catvod.com/jsm.json",
 			"name": "PG"
 		},
-		{
-			"url": "https://tvbox.catvod.com/catvod.json",
-			"name": "自用省心"
-		},
-		
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
 		  "name": "高天流云 XYQ"
@@ -40,6 +35,10 @@
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
 		  "name": "高天流云 No.1"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/SCXSVIP/TV/main/xszy.json",
+			"name": "潇洒"
 		}
 	],
 	"apk": {
