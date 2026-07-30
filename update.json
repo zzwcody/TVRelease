@@ -1,27 +1,43 @@
 {
 	"source": [
 		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/cat.json",
+		  "name": "高天流云CAT"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/XYQ.json",
 		  "name": "高天流云XYQ"
 		},
 		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/XBPQ.json",
+		  "name": "高天流云XBPQ"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/js.json",
 		  "name": "高天流云JS"
 		},
 		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/0828.json",
+		  "name": "高天流云TS"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/0827.json",
 		  "name": "高天流云FM"
 		},
 		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/0826.json",
 		  "name": "高天流云FTY"
 		},
 		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/0825.json",
 		  "name": "高天流云PG"
 		},
 		{
-		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/0822.json",
+		  "name": "高天流云OK"
+		},
+		{
+		  "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
 		  "name": "高天流云No.1"
 		},
 	],
