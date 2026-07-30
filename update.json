@@ -1,45 +1,29 @@
 {
 	"source": [
 		{
-			"url": "https://tvbox.catvod.com/catvod.json",
-			"name": "自用省心"
-		},
-		{
-			"url": "https://tvbox.catvod.com/FongMi.json",
-			"name": "真心"
-		},
-		{
-			"url": "https://tvbox.catvod.com/jsm.json",
-			"name": "PG"
-		},
-		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-		  "name": "高天流云 XYQ"
+		  "name": "高天流云XYQ"
 		},
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-		  "name": "高天流云 JS"
+		  "name": "高天流云JS"
 		},
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-		  "name": "高天流云 FM"
+		  "name": "高天流云FM"
 		},
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-		  "name": "高天流云 FTY"
+		  "name": "高天流云FTY"
 		},
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-		  "name": "高天流云 PG"
+		  "name": "高天流云PG"
 		},
 		{
 		  "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-		  "name": "高天流云 No.1"
+		  "name": "高天流云No.1"
 		},
-		{
-			"url": "https://raw.githubusercontent.com/SCXSVIP/TV/main/xszy.json",
-			"name": "潇洒"
-		}
 	],
 	"apk": {
 		"mobile": {
